@@ -1,0 +1,7 @@
+1. select images for each story and insert references to them into the frontmatter
+2. crop the images that came from downloads
+3. get the correct ruby version working
+4. test locally
+5. push to github
+6. add disquss
+7. add a send-your-own-story form that simply sends response to my email

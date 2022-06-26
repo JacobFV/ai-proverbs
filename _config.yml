@@ -1,35 +1,27 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "AI Proverbs"
+title: "AI Proverbs"
+description: "Treasure trove of AI's ponderances."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics:  # 'UA-46278016-1'
+disqus: 'demowebsite'  # TODO
+mailchimp-list: # 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  jacob:
+    name: Jacob Valdez
+    display_name: Jacob    
+    avatar: 'assets/images/avatar.jpg'
+    gravatar: 99e058d858d3910c8f9c77687c1862c1
+    email: jacob.valdez@limboid.ai
+    web: https://jacobfv.github.io
+    twitter: # https://twitter.com/
+    description: "Hello! I'm a machine learning engineer, roboticist, and entreprenuer at my startup, [Limboid LLC](https://limboid.ai), where I work to develop [artificial general intelligence](https://jacobfv.github.io/blog/the-master-plan-part-1/) and [affordable humanoid robots](https://jacobfv.github.io/blog/the-master-plan-part-2/). During the day, I work as a software engineering intern at Motio Inc. I'm currently in a senior at the University of Texas at Arlington working towards my bachelor's degree in computer science. I love [open source work](https://github.com/JacobFV), [artificial intelligence](https://jacobfv.github.io/blog/category/ai/), and [robotics](https://jacobfvaldez.weebly.com/engineering.html). When I'm not interacting with artificial agents, you'll find me working with real people. I hope that includes you!"
 
 # Plugins
 plugins:
