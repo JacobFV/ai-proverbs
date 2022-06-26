@@ -3,7 +3,7 @@ layout: post
 title:  100 billion parameters in one AGI
 author: Jacob
 categories: ['fables', 'ai']
-tags: []
+tags: ['test']
 image: assets/images/compartmentalized-brain.png
 description: 
 featured: false
