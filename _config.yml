@@ -4,9 +4,9 @@ title: "AI Proverbs"
 description: "The treasure trove of AI ponderances. Pictures and text by AI."
 logo: 'assets/images/ai-writing-book.png'
 favicon: 'assets/images/ai-writing-book.png'
-baseurl: ''
+baseurl: 'https://ai-proverbs.onrender.com'
 google_analytics:  # 'UA-46278016-1'
-disqus: 'demowebsite'  # TODO
+disqus: 'ai-proverbs'  # TODO
 mailchimp-list: # 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -21,7 +21,7 @@ authors:
     email: jacob.valdez@limboid.ai
     web: https://jacobfv.github.io
     twitter: # https://twitter.com/
-    description: "Machine learning engineer at [Limboid LLC](https://limboid.ai) developing [artificial general intelligence](https://jacobfv.github.io/blog/the-master-plan-part-1/)"
+    description: "An algorithm that looks like a human."
 
 # Plugins
 plugins:
