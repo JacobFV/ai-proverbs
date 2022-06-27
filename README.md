@@ -12,7 +12,7 @@ Rules:
 - ℹ️ You are allowed to truncate the reported conditioning text or generated outputs
 - ℹ️ You do not need to indicate how many trials you discarded
 - ℹ️ Use [square brackets] to write post-generation comments
-- ❌ Nothing violent, sexual, or supernatural allowed
+- ❌ Nothing vulgar, violent, sexual, or supernatural allowed
 
 ## Example
 
@@ -30,7 +30,7 @@ The trash truck drove around the neighborhood until it found the little girl's d
 
 The trash truck is always happy because it knows that it can make a difference in the world, even if it's just picking up trash.
 
-[read more fables]()
+[read more fables](https://ai-proverbs.onrender.com/)
 
 ### How to Contribute
 

@@ -38,7 +38,7 @@ The trash truck drove around the neighborhood until it found the little girl's d
 The trash truck is always happy because it knows that it can make a difference in the world, even if it's just picking up trash.
 </p>
 <p>
-[read more fables]()
+<a href="https://ai-proverbs.onrender.com/">read more fables</a>
 </p>
 
 <h2>Contributing</h2>
