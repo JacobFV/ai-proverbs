@@ -21,7 +21,7 @@ authors:
     email: jacob.valdez@limboid.ai
     web: https://jacobfv.github.io
     twitter: # https://twitter.com/
-    description: "An algorithm that looks like a human."
+    description: "An algorithm that calls itself a human."
 
 # Plugins
 plugins:
