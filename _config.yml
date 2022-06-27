@@ -1,10 +1,10 @@
 # Site
 name: "AI Proverbs"
 title: "AI Proverbs"
-description: "Treasure trove of AI's ponderances."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl:
+description: "The treasure trove of AI ponderances. Pictures and text by AI."
+logo: 'assets/images/ai-writing-book.png'
+favicon: 'assets/images/ai-writing-book.png'
+baseurl: ''
 google_analytics:  # 'UA-46278016-1'
 disqus: 'demowebsite'  # TODO
 mailchimp-list: # 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -13,15 +13,15 @@ permalink: /:title/
 
 # Authors
 authors:
-  jacob:
+  Jacob:
     name: Jacob
     display_name: Jacob    
     avatar: 'assets/images/avatar.jpg'
-    gravatar: 99e058d858d3910c8f9c77687c1862c1
+    gravatar: 78d282264878a1520cda958cea4ad52b
     email: jacob.valdez@limboid.ai
     web: https://jacobfv.github.io
     twitter: # https://twitter.com/
-    description: "Hello! I'm a machine learning engineer, roboticist, and entreprenuer at my startup, [Limboid LLC](https://limboid.ai), where I work to develop [artificial general intelligence](https://jacobfv.github.io/blog/the-master-plan-part-1/) and [affordable humanoid robots](https://jacobfv.github.io/blog/the-master-plan-part-2/). During the day, I work as a software engineering intern at Motio Inc. I'm currently in a senior at the University of Texas at Arlington working towards my bachelor's degree in computer science. I love [open source work](https://github.com/JacobFV), [artificial intelligence](https://jacobfv.github.io/blog/category/ai/), and [robotics](https://jacobfvaldez.weebly.com/engineering.html). When I'm not interacting with artificial agents, you'll find me working with real people. I hope that includes you!"
+    description: "Machine learning engineer at [Limboid LLC](https://limboid.ai) developing [artificial general intelligence](https://jacobfv.github.io/blog/the-master-plan-part-1/)"
 
 # Plugins
 plugins:
@@ -52,11 +52,6 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
-
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
